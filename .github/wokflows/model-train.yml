@@ -1,5 +1,5 @@
 name: train-model
-'on':
+on:
   push:
     branches:
       - main
